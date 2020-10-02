@@ -1,0 +1,87 @@
+# SEBELUM MENJALANKAN #
+# install browser firefox
+# install python 3.x
+# install module splinter 
+# install module selenium 
+# install webdriver
+# install module pyautogui
+
+# link browser firefox
+https://www.mozilla.org/en-US/firefox/new/
+
+# link python 3.x
+https://www.python.org/downloads/
+
+# link splinter
+https://pypi.org/project/splinter/
+
+# link selenium 
+https://pypi.org/project/selenium/
+
+# link web driver
+Firefox: https://github.com/mozilla/geckodriver/releases
+
+# link pyautogui
+https://pypi.org/project/PyAutoGUI/
+
+
+# CARA MENJALANKAN #
+# PENTING: set web driver terlebih dahulu sebelum menjalankan.
+# arahkan ke tempat file main.py
+# jalankan file main.py
+  windows = py main.py
+  Mac/linux = python3 main.py
+
+# KETIKA FILE BERJALAN #
+# tekan 'y', lalu enter untuk memulai mengetik
+# pindah ke browser, ketika mengetik
+# jika sudah selesai mengetik, buka kembali command prompt / terminal
+# lalu isi pertanyaan yang di berikan
+# kembali ke browser
+
+
+============================================================================================
+
+# BEFORE RUN #
+# install the Firefox browser
+# install python 3.x
+# install the splinter module
+# install the selenium module
+# install webdriver
+# install the pyautogui module
+
+# Firefox browser link
+https://www.mozilla.org/en-US/firefox/new/
+
+# python 3.x link
+https://www.python.org/downloads/
+
+# splinter link
+https://pypi.org/project/splinter/
+
+# selenium link
+https://pypi.org/project/selenium/
+
+# web driver link
+Firefox: https://github.com/mozilla/geckodriver/releases
+
+# pyautogui link
+https://pypi.org/project/PyAutoGUI/
+
+
+# HOW TO RUN #
+# IMPORTANT: set the web driver before running.
+# navigate to the main.py file
+# run the main.py file
+   windows = py main.py
+   Mac / linux = python3 main.py
+
+# WHEN FILE IS RUN #
+# press 'y' then enter for start typing
+# move to browser, when typing
+# When you finish typing, reopen the command prompt / terminal
+# then fill in the questions given
+# Returns to the browser
+
+
+
